@@ -1,4 +1,4 @@
-SUBS=dasm
+SUBS=dasm 64tass
 .PHONY: clean all $(SUBS)
 
 all: $(SUBS)
